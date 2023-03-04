@@ -10,7 +10,7 @@ BOT:
   ACTIVITYS: { name: "/help", type: "COMPETING" }
   STATUS: "idle"
   TOKEN: ""
-  PREFIX: ""
+  PREFIX: "+"
   lavalink:
     {
       host: "node1.kartadharta.xyz",
